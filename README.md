@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malhargohel&theme=nightowl&show_icons=true&hide_rank=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
-**malhargohel/malhargohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FocalChord/FocalChord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
